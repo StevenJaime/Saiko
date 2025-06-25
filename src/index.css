@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+a.active li{
+    border-bottom: 1.5px solid gray;
+}
+
+a:hover{
+    border-bottom: 1.5px solid gray;
+}
